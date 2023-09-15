@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130189881033",
+    "project_id": "piet-bus-connect",
+    "storage_bucket": "piet-bus-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130189881033:android:a96ca0402605d4cb06a718",
+        "android_client_info": {
+          "package_name": "in.co.piet.busconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpBZP7w43NAZPrw-fO6huv_U50d4_5TAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

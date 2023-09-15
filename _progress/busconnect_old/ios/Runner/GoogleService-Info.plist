@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDCwpq3Vby_HXcL0xEy7X0ly6B993wuB3I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>130189881033</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>in.co.piet.busconnect</string>
+	<key>PROJECT_ID</key>
+	<string>piet-bus-connect</string>
+	<key>STORAGE_BUCKET</key>
+	<string>piet-bus-connect.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:130189881033:ios:4c45762bfaa8aa7106a718</string>
+</dict>
+</plist>

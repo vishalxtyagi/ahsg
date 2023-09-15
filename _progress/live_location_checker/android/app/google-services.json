@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "253442567784",
+    "project_id": "piet-bus-tracker-b3804",
+    "storage_bucket": "piet-bus-tracker-b3804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253442567784:android:d5545469feaec4065995dd",
+        "android_client_info": {
+          "package_name": "in.co.piet.live_bus_location"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfbUGlXnEII_ipmrJwX9O-D1-qAs3lUBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253442567784:android:95d3b51d212476c35995dd",
+        "android_client_info": {
+          "package_name": "in.co.piet.live_location_checker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfbUGlXnEII_ipmrJwX9O-D1-qAs3lUBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
